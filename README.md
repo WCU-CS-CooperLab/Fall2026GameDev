@@ -1,4 +1,8 @@
-# GamePublish
-A template repository to publish games
+# Demo CSC476 Games
 
-[Google](www.google.com)
+## Student Submissions
+
+- [Individual Projects](students.html)
+- [Team Project 1 - Games](TeamProject1.html)
+- [Team Project 2 - Networked Games](TeamProject2.html)
+- [Additional Play Testing Links](PlayTest.html)
