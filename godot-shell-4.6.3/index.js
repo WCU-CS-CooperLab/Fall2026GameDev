@@ -8769,8 +8769,8 @@ var Godot = (() => {
 	  
 	  const known_layout_pattern = /^window\.parent\.postMessage\((\{.*\}), ['](.*?)[']\);$/s;
 	  const gShellPattern = /^window.godotShell = {};$/s;
-      const firstPostPattern = /^window\.parent\.postMessage\(\{"source":"godot-activecode","subject":"runestone","type":"ready"\}, ['][*][']\);/s
-	  const printCapturePattern = /\(function\(\) \{\n\s+var _origLog = console\.log\.bind\(console\);\n\s+console\.log = function\(\) {\n\s+_origLog\.apply\(console, arguments\);\n\s+var text = Array\.prototype\.join\.call\(arguments, ['] [']\);\n\s+window\.parent\.postMessage\(\{\n\s+source:  [']godot-activecode['],\n\s+subject: [']runestone['],\n\s+type:    [']print['],\n\s+text:    text\s+\}, ['][*][']\);\n\s+};\n\s+\}\)\(\);/s
+      const firstPostPattern = /^if \(typeof window\.hostOrigin === [']undefined[']\) \{\n\s*window\.hostOrigin = null;\n\s*\}\n\s*\n\s*window\.addEventListener\('message', \(event\) => \{\n\s*if \(!window\.hostOrigin && event\.data && event\.data\.type === [']loadExercise[']\) \{\n\s*window\.hostOrigin = event\.origin;\n\s*}\n\s*\n\s*if \(event\.origin !== window\.hostOrigin\) return;\n\s*\n\s*if \(event\.data && event\.data\.type === [']loadExercise[']\) \{\n\s*if \(window\.godotLoadExerciseCallback\) \{\n\s*window\.godotLoadExerciseCallback\(\[event\.data\.payload\]\);\n\s*\}\n\s*\}\n\s+\}\);\n?\s*$/s
+	  const printCapturePattern = /\(function\(\) \{\n\s+var _origLog = console\.log\.bind\(console\);\n\s+console\.log = function\(\) {\n\s+_origLog\.apply\(console, arguments\);\n\s+var text = Array\.prototype\.join\.call\(arguments, ['] [']\);\n\s+\n\s+var target = window\.hostOrigin \|\| ['][*]['];\n\s+\n\s+window\.parent\.postMessage\(\{\n\s+source:  [']godot-activecode['],\n\s+subject: [']runestone['],\n\s+type:    [']print['],\n\s+text:    text\s+\}, target\);\n\s+};\n\s+\}\)\(\);\n?\s*$/s
       const match = js_code.match(known_layout_pattern);
 	  const is_godot_shell = js_code.match(gShellPattern);
 	  const is_first_pattern = js_code.match(firstPostPattern);
