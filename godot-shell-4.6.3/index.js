@@ -8785,6 +8785,7 @@ var Godot = (() => {
             const target_origin = match[2];
             const allowed_targets = [
                 "https://runestone.academy",
+				"http://localhost:8129",
                 window.location.origin,
             ];
             if (!allowed_targets.includes(target_origin)) {
