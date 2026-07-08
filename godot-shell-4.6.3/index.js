@@ -8787,6 +8787,8 @@ var Godot = (() => {
                 "https://runestone.academy",
 				"http://localhost:8129",
         "https://localhost:8129",
+        "http://localhost:8130",
+        "https://localhost:8130",
                 window.location.origin,
             ];
             if (!allowed_targets.includes(target_origin)) {
