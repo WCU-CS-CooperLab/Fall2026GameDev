@@ -1,0 +1,17 @@
+# Site Settings
+title: Published Games
+description: A place for Godot Games.
+#url: "https://example.com"
+
+# Build Settings
+theme: minima
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
+
+# File Management
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
+#  - node_modules/
+#  - vendor/
