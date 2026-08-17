@@ -1,0 +1,18 @@
+# Site Settings
+title: Fall 2026 Game Dev
+description: This page will showcase student work for 2026.
+#repository: WCU-CS-CooperLab/GamePublish
+#url: "https://example.com"
+
+# Build Settings
+theme: minima
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
+
+# File Management
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
+#  - node_modules/
+#  - vendor/
