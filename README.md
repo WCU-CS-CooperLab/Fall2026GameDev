@@ -12,4 +12,5 @@ Welcome to WCUPA CSC 476 public game display. For games from the last class see 
 ## class sketches
 
 - [aug 28 Player Scene](sketches/dodge-player)
+- [aug 28 Player Scene - corrected](sketches/dodge-player-corrected)
 
