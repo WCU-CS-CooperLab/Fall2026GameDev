@@ -8,3 +8,8 @@ Welcome to WCUPA CSC 476 public game display. For games from the last class see 
 - [Team Project 1 - Games](TeamProject1.html)
 - [Team Project 2 - Networked Games](TeamProject2.html)
 - [Additional Play Testing Links](PlayTest.html)
+
+## class sketches
+
+- [aug 28 Player Scene](sketches/dodge-player)
+
