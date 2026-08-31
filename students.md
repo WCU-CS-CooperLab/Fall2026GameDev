@@ -5,7 +5,7 @@
 - [Alexander Bloemker](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-alex15630)
 - [Alexander Meehan](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-alexmeehan54)
 - [Alexander Rajavong](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-alhaic0)
-- [Alymjan Rejepov] (https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-)
+- [Alymjan Rejepov](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-alymjan)
 - [Aramis Hernandez](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-aramishernandez1)
 - [Asher Snyder](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-asher37777)
 - [Bereket Haddish](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-bhaddish123)
