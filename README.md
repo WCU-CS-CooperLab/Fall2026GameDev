@@ -19,6 +19,8 @@ Welcome to WCUPA CSC 476 public game display. For games from the last class see 
 - [sep 4 HUD Scene](sketches/hud-sep4)
 
 - [sep 11 Space Farm Collector](sketches/space-farm-collector)
+- [sep 11 Space Farm Prize](sketches/space-farm-prize)
+
 
 ## book assets
 
