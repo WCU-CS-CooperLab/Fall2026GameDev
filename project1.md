@@ -34,3 +34,4 @@
 - [Dodge the Creeps 2 (Boss Creep)](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-tahjfayall/dc2-project1-phase2/)
 - [Dodge the Creeps! (stars edition)](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-tylerbagent/Project-1-Phase-2/)
 - [Lantern Light](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-geungsi/lantern-light/) - William Burket
+- [Hoboman](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-shadowleaderjordanzo/hoboman/)
