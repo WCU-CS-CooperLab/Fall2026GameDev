@@ -13,6 +13,7 @@
 - [Darius Brown](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-dpower2004)
 - [David Carangan](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-dcarangan)
 - [Drew Gondell](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-agondell4)
+- [Eddie Umoh](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-eddie-lol)
 - [Ethan Charest](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-ethancharest)
 - [Freya Glick](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-freyaglick)
 - [Haley Hart](https://wcu-cs-cooperlab.github.io/game-dev-f26-demo-games-haleyvhart)
