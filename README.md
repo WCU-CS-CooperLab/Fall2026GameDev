@@ -25,6 +25,8 @@ Welcome to WCUPA CSC 476 public game display. For games from the last class see 
 - [sep 23 Space Farm Main start](sketches/main-sep23a)
 - [sep 23 Space Farm Main finish](sketches/space-farm-main-sep23b)
 
+- [oct 5 3D Dodge Player](sketches/3d_dodge_player_oct5)
+
 
 ## book assets
 
