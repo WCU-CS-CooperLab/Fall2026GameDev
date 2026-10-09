@@ -27,6 +27,7 @@ Welcome to WCUPA CSC 476 public game display. For games from the last class see 
 
 - [oct 5 3D Dodge Player](sketches/3d_dodge_player_oct5)
 - [oct 7 3D Dodge Enemies](sketches/3d_dodge_enemies_oct7)
+- [oct 9 3D Dodge Squash enemies, Player Death](sketches/3d_dogdge_player_death_squash)
 
 
 ## book assets
